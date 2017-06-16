@@ -1,0 +1,16 @@
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\bin\Debug\SatHachB2.exe.config
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\bin\Debug\SatHachB2.exe
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\bin\Debug\SatHachB2.pdb
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.csprojResolveAssemblyReference.cache
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.Start.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.Properties.Resources.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.Thi.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.csproj.GenerateResource.Cache
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.exe
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.pdb
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.AdminLogin.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.QuanLyThiSinh.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.KetQuaThi.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.XacNhan.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.QuanLy.resources
+F:\Môn C#\ThucHanh\SatHachB2\SatHachB2\obj\Debug\SatHachB2.OnThi.resources
